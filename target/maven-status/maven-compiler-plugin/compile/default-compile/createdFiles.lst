@@ -1,0 +1,5 @@
+com\mycompany\assignmentpartb\model\Beers_.class
+com\mycompany\assignmentpartb\model\Beers.class
+com\mycompany\assignmentpartb\controller\BeerController.class
+com\mycompany\assignmentpartb\model\BeerService.class
+com\mycompany\assignmentpartb\model\DBUtil.class
